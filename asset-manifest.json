@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/React-js-tag-input/static/css/main.a489b26a.chunk.css",
+    "main.js": "/React-js-tag-input/static/js/main.7609090d.chunk.js",
+    "main.js.map": "/React-js-tag-input/static/js/main.7609090d.chunk.js.map",
+    "runtime-main.js": "/React-js-tag-input/static/js/runtime-main.14518762.js",
+    "runtime-main.js.map": "/React-js-tag-input/static/js/runtime-main.14518762.js.map",
+    "static/js/2.fec3090d.chunk.js": "/React-js-tag-input/static/js/2.fec3090d.chunk.js",
+    "static/js/2.fec3090d.chunk.js.map": "/React-js-tag-input/static/js/2.fec3090d.chunk.js.map",
+    "static/js/3.b82f9ac9.chunk.js": "/React-js-tag-input/static/js/3.b82f9ac9.chunk.js",
+    "static/js/3.b82f9ac9.chunk.js.map": "/React-js-tag-input/static/js/3.b82f9ac9.chunk.js.map",
+    "index.html": "/React-js-tag-input/index.html",
+    "static/css/main.a489b26a.chunk.css.map": "/React-js-tag-input/static/css/main.a489b26a.chunk.css.map",
+    "static/js/2.fec3090d.chunk.js.LICENSE.txt": "/React-js-tag-input/static/js/2.fec3090d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.14518762.js",
+    "static/js/2.fec3090d.chunk.js",
+    "static/css/main.a489b26a.chunk.css",
+    "static/js/main.7609090d.chunk.js"
+  ]
+}
